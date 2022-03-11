@@ -152,7 +152,7 @@ We use Node to write code. Web services that communicate with clients using the 
 
 1. Understand and explain the use of Middleware.
 
-Middleware helps build applications more efficiently. It is the connection between application, data, and users.
+Middleware helps build applications more efficiently. It is the connection between application, data, and users. it is the glue between softwares
 
 1. The basic principles of the REST architectural style.
 
@@ -169,4 +169,4 @@ An Express Router behaves like a mini express application. It can have its own R
 
 1. Describe tooling used to manually test the correctness of an API.
 
-It sends the certain request needed to check if it works
+It sends the certain request needed to check if it works you can practice though ui applications like insmonia or postman
