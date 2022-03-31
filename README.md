@@ -170,3 +170,10 @@ An Express Router behaves like a mini express application. It can have its own R
 1. Describe tooling used to manually test the correctness of an API.
 
 It sends the certain request needed to check if it works you can practice though ui applications like insmonia or postman
+
+
+
+
+
+
+// great project
